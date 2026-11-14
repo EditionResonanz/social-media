@@ -238,7 +238,8 @@ def sheet(specfile):
     .cap{{font-family:Lora;font-size:24px;line-height:1.45;background:#fff;padding:18px 22px;border-radius:12px;width:{cols * (tw + 16) - 16}px}}
     </style></head><body>
     <h1>{spec.get('date', '')} · {spec.get('format', '')} · {spec.get('time', '')} Uhr</h1>
-    <div class="meta">Titel: {spec.get('title', '')}</div>
+    <div class="meta">Titel: {spec.get('title', '')} <span style="color:#0b1f3a">{spec.get('titleScore', '')}</span></div>
+    <div class="meta">Erster Kommentar: {spec.get('firstComment', '–')}</div>
     <div>{thumbs}</div><div class="cap">{cap}</div></body></html>"""
     tmp = pathlib.Path(tempfile.mkdtemp()); hp = tmp / "sheet.html"; hp.write_text(html, encoding="utf-8")
     out = d / "uebersicht.jpg"
