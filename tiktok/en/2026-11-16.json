@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-16",
+ "time": "18:07",
+ "format": "F1",
+ "lang": "en",
+ "version": "V1",
+ "title": "Christmas 1914 vs. Christmas 2026",
+ "caption": "Christmas 1914 vs. Christmas today. The Christmas truce really happened – a true story. 🕯️\n\nIf enemies managed it in 1914: who stands up first in your family? Tell us in the comments 👇\n\nMaybe peace isn't a miracle that happens once. Maybe it's waiting in every one of us.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #christmas1914 #truestory #booktok #christmasgift #buchtok",
+ "slides": [
+  {
+   "split": {
+    "l": {
+     "img": "vorrat/1914_saenger_baum_nacht.jpg",
+     "fx": 0.4,
+     "label": "CHRISTMAS 1914"
+    },
+    "r": {
+     "img": "vorrat/heute_familie_tisch_streit.jpg",
+     "fx": 1.0,
+     "label": "CHRISTMAS 2026"
+    }
+   },
+   "hook": true
+  },
+  {
+   "split": {
+    "l": {
+     "img": "vorrat/1914_brit_graben_lichter.jpg",
+     "fx": 0.55,
+     "label": "1914",
+     "text": "Enemies sing carols to each other across no man's land."
+    },
+    "r": {
+     "img": "vorrat/heute_streit_schiefer_baum.jpg",
+     "fx": 0.6,
+     "label": "2026",
+     "text": "We argue about whether the tree is crooked."
+    }
+   }
+  },
+  {
+   "split": {
+    "l": {
+     "img": "vorrat/1914_tausch_brite_deutscher.jpg",
+     "fx": 0.5,
+     "label": "1914",
+     "text": "They swap cigars, chocolate and plum pudding."
+    },
+    "r": {
+     "img": "vorrat/heute_umtausch_27.jpg",
+     "fx": 0.35,
+     "label": "2026",
+     "text": "We return our presents on the 27th."
+    }
+   }
+  },
+  {
+   "split": {
+    "l": {
+     "img": "vorrat/1914_fussball_farbig.jpg",
+     "fx": 0.72,
+     "label": "1914",
+     "text": "They play football in no man's land."
+    },
+    "r": {
+     "img": "vorrat/heute_fussball_streit_tisch.jpg",
+     "fx": 0.15,
+     "label": "2026",
+     "text": "We fight about football at the dinner table."
+    }
+   }
+  },
+  {
+   "split": {
+    "l": {
+     "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
+     "fx": 0.5,
+     "label": "1914",
+     "text": "They shake hands with the enemy."
+    },
+    "r": {
+     "img": "vorrat/heute_mann_handy_zoegert.jpg",
+     "fx": 0.6,
+     "label": "2026",
+     "text": "We haven't called our brother in three years."
+    }
+   }
+  },
+  {
+   "img": "vorrat/1914_handschlag_franzose_deutscher.jpg",
+   "fx": 0.5,
+   "text": "They did it in 1914. Who stands up first in your family?",
+   "cta": "Tell us in the comments"
+  },
+  {
+   "book": "en"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-18",
+ "time": "18:14",
+ "format": "F3",
+ "lang": "en",
+ "version": "V1",
+ "title": "You haven't texted your brother in three years.",
+ "caption": "Haven't spoken to your brother in years? Christmas 1914 has something to tell you. The Christmas truce – a true story. 🕯️\n\nWho should stand up first in your family? Tell us in the comments 👇\n\nThey crossed no man's land. Sometimes all it takes is pressing send.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #christmas1914 #truestory #booktok #bookrecommendations #buchtok",
+ "slides": [
+  {
+   "img": "vorrat/heute_mann_handy_zoegert.jpg",
+   "fx": 0.55,
+   "text": "You haven't texted your brother in three years.",
+   "hook": true
+  },
+  {
+   "img": "vorrat/heute_mann_handy_zoegert.jpg",
+   "fx": 0.62,
+   "fy": 0.62,
+   "zoom": 1.6,
+   "text": "You type. You delete. You wait for him to go first.",
+   "bubbles": [
+    {
+     "text": "Hey… Merry Christmas?",
+     "x": 330,
+     "y": 1060,
+     "w": 440,
+     "tail": "down-right"
+    }
+   ]
+  },
+  {
+   "img": "vorrat/1914_franz_graben_nacht.jpg",
+   "fx": 0.5,
+   "text": "Christmas 1914. Enemies lay in trenches, sometimes only 30 yards apart."
+  },
+  {
+   "img": "vorrat/1914_geht_ins_niemandsland.jpg",
+   "fx": 0.5,
+   "text": "Then someone stood up. Unarmed. Not knowing if he'd be shot."
+  },
+  {
+   "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
+   "fx": 0.5,
+   "text": "Within minutes, no man's land was full of men shaking hands."
+  },
+  {
+   "img": "vorrat/heute_mann_handy_zoegert.jpg",
+   "fx": 0.72,
+   "zoom": 1.35,
+   "text": "They crossed no man's land. You only have to press send.",
+   "fy": 0.5
+  },
+  {
+   "img": "vorrat/heute_familie_tisch_streit.jpg",
+   "fx": 0.5,
+   "text": "Who should stand up first in your family?",
+   "cta": "Tell us in the comments"
+  },
+  {
+   "book": "en"
+  }
+ ]
+}

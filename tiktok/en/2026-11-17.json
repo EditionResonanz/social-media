@@ -1,0 +1,53 @@
+{
+ "date": "2026-11-17",
+ "time": "17:53",
+ "format": "F2",
+ "lang": "en",
+ "version": "V1",
+ "title": "They expected an attack. Then the enemy sang.",
+ "caption": "Christmas Eve 1914: the Christmas truce began with a song. A true story. 🕯️\n\nWould you have been the first to stand up? Tell us in the comments 👇\n\nSometimes peace starts with one voice in the dark.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #christmas1914 #truestory #history #booktok #buchtok",
+ "slides": [
+  {
+   "img": "vorrat/1914_brit_graben_lichter.jpg",
+   "fx": 0.5,
+   "text": "They expected an attack. Then the enemy sang.",
+   "hook": true
+  },
+  {
+   "img": "vorrat/1914_brit_graben_lichter.jpg",
+   "fx": 0.15,
+   "fy": 0.75,
+   "zoom": 1.45,
+   "text": "Christmas Eve 1914. Headquarters warned: the Germans might attack tonight."
+  },
+  {
+   "img": "vorrat/1914_lichterkette_front.jpg",
+   "fx": 0.5,
+   "text": "Then lights appeared along the German trenches. Candles on little Christmas trees."
+  },
+  {
+   "img": "vorrat/1914_saenger_baum_nacht.jpg",
+   "fx": 0.45,
+   "text": "And over there, they began to sing: \"Silent Night\"."
+  },
+  {
+   "img": "vorrat/1914_niemandsland_lichter.jpg",
+   "fx": 0.5,
+   "text": "The British listened. Then they sang back. Song after song."
+  },
+  {
+   "img": "vorrat/1914_steigt_aus_graben.jpg",
+   "fx": 0.5,
+   "text": "Next morning, someone had to be the first to stand up."
+  },
+  {
+   "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
+   "fx": 0.5,
+   "text": "Would you have stood up first?",
+   "cta": "Tell us in the comments"
+  },
+  {
+   "book": "en"
+  }
+ ]
+}

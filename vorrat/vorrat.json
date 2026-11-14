@@ -1,0 +1,438 @@
+{
+ "stand": "2026-11-14",
+ "hinweis": "Gesperrt: Berthier-Farbbild (Pickelhaube). Nie Bilder mit Signatur.",
+ "bilder": [
+  {
+   "id": "v001",
+   "datei": "vorrat/1914_saenger_baum_nacht.jpg",
+   "zeit": "1914",
+   "motiv": "Deutscher Soldat (Feldmütze) singt auf dem Grabenrand, Kerzenbaum, Briten hören zu",
+   "schlagworte": [
+    "singen",
+    "Stille Nacht",
+    "Heiligabend",
+    "Kerzen",
+    "Nacht"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v002",
+   "datei": "vorrat/1914_steigt_aus_graben.jpg",
+   "zeit": "1914",
+   "motiv": "Deutscher steigt mit Kerzenbaum aus dem Graben",
+   "schlagworte": [
+    "aufstehen",
+    "Mut",
+    "erster Schritt",
+    "Kerzenbaum"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    1080,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v003",
+   "datei": "vorrat/1914_geht_ins_niemandsland.jpg",
+   "zeit": "1914",
+   "motiv": "Deutscher geht mit Kerzenbaum über das Niemandsland",
+   "schlagworte": [
+    "unbewaffnet",
+    "Niemandsland",
+    "Mut",
+    "erster Schritt"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    1080,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v004",
+   "datei": "vorrat/1914_franz_graben_nacht.jpg",
+   "zeit": "1914",
+   "motiv": "Französischer Graben bei Nacht, Lichter drüben",
+   "schlagworte": [
+    "Graben",
+    "Nacht",
+    "Franzosen",
+    "Warten"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v005",
+   "datei": "vorrat/1914_niemandsland_lichter.jpg",
+   "zeit": "1914",
+   "motiv": "Leeres Niemandsland bei Nacht, Lichterbäume in der Ferne",
+   "schlagworte": [
+    "Lichter",
+    "Niemandsland",
+    "Stille"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v006",
+   "datei": "vorrat/1914_handschlag_franzose_deutscher.jpg",
+   "zeit": "1914",
+   "motiv": "Franzose und Deutscher geben sich die Hand, Sonnenuntergang",
+   "schlagworte": [
+    "Handschlag",
+    "Frieden",
+    "Franzosen"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v007",
+   "datei": "vorrat/1914_tausch_franzose_deutscher.jpg",
+   "zeit": "1914",
+   "motiv": "Franzose und Deutscher tauschen Geschenke",
+   "schlagworte": [
+    "Tausch",
+    "Geschenke",
+    "Lächeln"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v008",
+   "datei": "vorrat/1914_handschlag_brite_deutscher.jpg",
+   "zeit": "1914",
+   "motiv": "Brite und Deutscher geben sich die Hand, Kerzenbaum",
+   "schlagworte": [
+    "Handschlag",
+    "Frieden",
+    "Briten"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v009",
+   "datei": "vorrat/1914_tausch_brite_deutscher.jpg",
+   "zeit": "1914",
+   "motiv": "Brite und Deutscher tauschen Tabak/Schokolade",
+   "schlagworte": [
+    "Tausch",
+    "Tabak",
+    "Schokolade"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v010",
+   "datei": "vorrat/1914_brit_graben_lichter.jpg",
+   "zeit": "1914",
+   "motiv": "Britischer Graben bei Nacht, Soldaten sehen Lichter",
+   "schlagworte": [
+    "Graben",
+    "Nacht",
+    "Briten",
+    "Lichter"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v011",
+   "datei": "vorrat/1914_lichterkette_front.jpg",
+   "zeit": "1914",
+   "motiv": "Lichterbäume entlang der Front über dem Niemandsland",
+   "schlagworte": [
+    "Lichter",
+    "Front",
+    "Heiligabend"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v012",
+   "datei": "vorrat/1914_fussball_farbig.jpg",
+   "zeit": "1914",
+   "motiv": "Kolorierte Buchzeichnung: Fußball, Handschlag, Feuer (3:4, Ausschnitt wählen)",
+   "schlagworte": [
+    "Fußball",
+    "Handschlag",
+    "Tausch"
+   ],
+   "quelle": "Buchzeichnung farbig 01.11.2026",
+   "groesse": [
+    1434,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v013",
+   "datei": "vorrat/1914_begraebnis_farbig.jpg",
+   "zeit": "1914",
+   "motiv": "Kolorierte Buchzeichnung: gemeinsames Begräbnis, Kerzenbaum (3:4)",
+   "schlagworte": [
+    "Begräbnis",
+    "Kerzenbaum",
+    "Feuer geben"
+   ],
+   "quelle": "Buchzeichnung farbig 01.11.2026",
+   "groesse": [
+    1434,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v014",
+   "datei": "vorrat/heute_familie_tisch_streit.jpg",
+   "zeit": "heute",
+   "motiv": "Familie am Weihnachtstisch, Geschwister abgewandt, Mutter besorgt, Opa lächelt",
+   "schlagworte": [
+    "Familie",
+    "Streit",
+    "Funkstille",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v015",
+   "datei": "vorrat/heute_mann_handy_zoegert.jpg",
+   "zeit": "heute",
+   "motiv": "Mann allein am Baum, Handy, zögert, dem Bruder zu schreiben",
+   "schlagworte": [
+    "Handy",
+    "Bruder",
+    "erster Schritt",
+    "Funkstille"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v016",
+   "datei": "vorrat/heute_karton_zu.jpg",
+   "zeit": "buch",
+   "motiv": "Geschlossener Karton auf Weihnachtstisch",
+   "schlagworte": [
+    "Geschenk",
+    "Karton"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v017",
+   "datei": "vorrat/heute_buch_im_karton_en.jpg",
+   "zeit": "buch",
+   "motiv": "Englisches Buch steht im offenen Karton auf dem Weihnachtstisch",
+   "schlagworte": [
+    "Buch",
+    "Geschenk",
+    "englisch"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v018",
+   "datei": "vorrat/heute_buch_im_karton_de.jpg",
+   "zeit": "buch",
+   "motiv": "Deutsches Buch im Karton",
+   "schlagworte": [
+    "Buch",
+    "Geschenk",
+    "deutsch"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v019",
+   "datei": "vorrat/heute_buch_im_karton_fr.jpg",
+   "zeit": "buch",
+   "motiv": "Französisches Buch im Karton",
+   "schlagworte": [
+    "Buch",
+    "Geschenk",
+    "französisch"
+   ],
+   "quelle": "Flow-Clip 12.11.2026",
+   "groesse": [
+    720,
+    1280
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "c001",
+   "datei": "vorrat/buch_cover_en.jpg",
+   "zeit": "buch",
+   "motiv": "Cover EN Acryl-Fassung 05.11.2026",
+   "schlagworte": [
+    "Cover"
+   ],
+   "quelle": "Website-Arbeitsstand",
+   "einsaetze": []
+  },
+  {
+   "id": "c002",
+   "datei": "vorrat/buch_cover_de.jpg",
+   "zeit": "buch",
+   "motiv": "Cover DE (klein, 560 px)",
+   "schlagworte": [
+    "Cover"
+   ],
+   "quelle": "Website",
+   "einsaetze": []
+  },
+  {
+   "id": "c003",
+   "datei": "vorrat/buch_cover_fr.jpg",
+   "zeit": "buch",
+   "motiv": "Cover FR (klein, 560 px)",
+   "schlagworte": [
+    "Cover"
+   ],
+   "quelle": "Website",
+   "einsaetze": []
+  },
+  {
+   "id": "v020",
+   "datei": "vorrat/heute_streit_schiefer_baum.jpg",
+   "zeit": "heute",
+   "motiv": "Geschwister streiten vor schiefem Weihnachtsbaum, Mutter seufzt",
+   "schlagworte": [
+    "Streit",
+    "Baum",
+    "Weihnachtsmacken"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v021",
+   "datei": "vorrat/heute_umtausch_27.jpg",
+   "zeit": "heute",
+   "motiv": "Schwester am Umtauschschalter mit Geschenk und Kassenbon (Schild „RETURNS“ unten Mitte – wegschneiden)",
+   "schlagworte": [
+    "Umtausch",
+    "Geschenk",
+    "27. Dezember"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v022",
+   "datei": "vorrat/heute_fussball_streit_tisch.jpg",
+   "zeit": "heute",
+   "motiv": "Bruder (Fanschal) und Opa streiten am Tisch über Fußball",
+   "schlagworte": [
+    "Fußball",
+    "Streit",
+    "Esstisch"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v023",
+   "datei": "vorrat/heute_opa_liest_buch.jpg",
+   "zeit": "heute",
+   "motiv": "Opa liest am Kamin ein Buch, gerührt (Cover nicht sichtbar)",
+   "schlagworte": [
+    "Geschenk",
+    "Buch",
+    "Opa",
+    "Rührung"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1072,
+    1920
+   ],
+   "einsaetze": []
+  }
+ ]
+}

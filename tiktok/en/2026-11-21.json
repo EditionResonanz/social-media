@@ -1,0 +1,15 @@
+{
+ "date": "2026-11-21", "time": "18:02", "format": "F4", "lang": "en", "version": "V1",
+ "title": "5 people who need this book for Christmas",
+ "caption": "5 people who need this book for Christmas 🎁 A true story about the Christmas truce of 1914 – a Christmas gift idea with meaning.\n\nWho's on your list? Tell us in the comments 👇\n\nA gift that says more than a gift card: one night when enemies became people.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmasgift #christmastruce #truestory #booktok #bookrecommendations #buchtok",
+ "slides": [
+  {"img": "vorrat/heute_opa_liest_buch.jpg", "fx": 0.5, "text": "5 people who need this book for Christmas", "hook": true},
+  {"img": "vorrat/heute_familie_tisch_streit.jpg", "fx": 0.45, "text": "1/5 The one who always makes peace at the Christmas table."},
+  {"img": "vorrat/1914_fussball_farbig.jpg", "fx": 0.72, "text": "2/5 History lovers. This really happened in 1914."},
+  {"img": "vorrat/heute_mann_handy_zoegert.jpg", "fx": 0.6, "text": "3/5 The brother you haven't called in years."},
+  {"img": "vorrat/1914_tausch_franzose_deutscher.jpg", "fx": 0.5, "text": "4/5 Anyone who thinks peace is impossible."},
+  {"img": "vorrat/1914_steigt_aus_graben.jpg", "fx": 0.5, "text": "5/5 You. Because someone has to stand up first."},
+  {"img": "vorrat/heute_opa_liest_buch.jpg", "fx": 0.55, "zoom": 1.3, "text": "Who would you give it to?", "cta": "Tell us in the comments"},
+  {"book": "en"}
+ ]
+}
