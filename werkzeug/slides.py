@@ -72,7 +72,7 @@ def prep_background(s, tmp, i):
         d.rectangle((W // 2 - 3, 0, W // 2 + 2, H), fill=(245, 215, 145))
     elif "book" in s:
         cfg = BOOK[s["book"]]
-        im = cover_crop(cfg["bg"], W, H, .5, .5, 1.15).filter(ImageFilter.GaussianBlur(16))
+        im = cover_crop(s.get("bg", cfg["bg"]), W, H, .5, .5, 1.15).filter(ImageFilter.GaussianBlur(16))
         im = ImageEnhance.Brightness(im).enhance(.55)
     else:
         im = cover_crop(s["img"], W, H, s.get("fx", .5), s.get("fy", .5), s.get("zoom", 1))
@@ -133,7 +133,7 @@ def slide_html(s, bg):
         c = BOOK[s["book"]]
         cover = (ROOT / c["cover"]).as_uri()
         body += (f'<div class="box" style="left:110px;width:860px;top:{CENTER_Y}px;transform:translateY(-50%)">'
-                 f'<div class="book-k">{c["kicker"]}</div>'
+                 f'<div class="book-k">{s.get("kicker", c["kicker"])}</div>'
                  f'<img src="{cover}" style="display:block;margin:26px auto 34px;width:440px;'
                  f'border-radius:6px;box-shadow:0 30px 80px rgba(0,0,0,.65)">'
                  f'<div class="book-t">{c["title"]}</div>'

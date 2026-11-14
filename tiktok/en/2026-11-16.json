@@ -1,112 +1,69 @@
 {
  "date": "2026-11-16",
- "time": "18:07",
- "format": "F1",
+ "time": "18:05",
+ "format": "S2 Studie",
  "lang": "en",
  "version": "V1",
- "title": "Enemies made peace in 1914… we can't even agree on the tree 🎄",
- "caption": "Enemies made peace in 1914… we can't even agree on the tree 🎄 The Christmas truce of 1914 really happened – a true story.\n\nIf they managed it in 1914: who stands up first in your family? Tell us in the comments 👇\n\nMaybe peace isn't a miracle that happens once. Maybe it's waiting in every one of us.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #ww1 #truestory #booktok #christmasgift #buchtok",
+ "title": "Apologizing first feels weak… a study shows what everyone else actually sees 🤍",
+ "titleScore": "ohne vidIQ (nur YouTube)",
+ "sound": "Sorry – Justin Bieber",
+ "caption": "Apologizing first feels weak… a study shows what everyone else actually sees 🤍 Researchers at the University of Mannheim found that we judge our own vulnerable step as weaker than the very same step taken by someone else.\n\nWho's waiting for you to go first? Tell us in the comments 👇\n\nGoing first isn't admitting you were wrong. It says: you matter more to me than this quarrel.\n\nFollow for more true stories about the courage to take the first step.\n\n📖 \"The First to Stand Up\" by Bernd Blasius – a true story about being the first.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#psychology #relationships #apology #booktok #selfgrowth #buchtok\n\nStudy: Bruk et al., University of Mannheim (“beautiful mess effect”)",
+ "firstComment": "Hand on heart: when did you last go first? 👀",
  "slides": [
   {
-   "split": {
-    "l": {
-     "img": "vorrat/1914_saenger_baum_nacht.jpg",
-     "fx": 0.4,
-     "label": "CHRISTMAS 1914"
-    },
-    "r": {
-     "img": "vorrat/heute_familie_tisch_streit.jpg",
-     "fx": 1.0,
-     "label": "CHRISTMAS 2026"
-    }
-   },
-   "hook": true,
-   "cy": 410
-  },
-  {
-   "split": {
-    "l": {
-     "img": "vorrat/1914_brit_graben_lichter.jpg",
-     "fx": 0.55,
-     "label": "1914",
-     "text": "Enemies sing carols to each other across no man's land.",
-     "cy": 560
-    },
-    "r": {
-     "img": "vorrat/heute_streit_schiefer_baum.jpg",
-     "fx": 0.6,
-     "label": "2026",
-     "text": "We argue about whether the tree is crooked.",
-     "cy": 560
-    }
-   }
-  },
-  {
-   "split": {
-    "l": {
-     "img": "vorrat/1914_tausch_brite_deutscher.jpg",
-     "fx": 0.5,
-     "label": "1914",
-     "text": "They swap cigars, chocolate and plum pudding.",
-     "cy": 800
-    },
-    "r": {
-     "img": "vorrat/heute_umtausch_27.jpg",
-     "fx": 0.35,
-     "label": "2026",
-     "text": "We return our presents on the 27th.",
-     "cy": 490
-    }
-   }
-  },
-  {
-   "split": {
-    "l": {
-     "img": "vorrat/1914_fussball_spiel_b.jpg",
-     "fx": 0.5,
-     "label": "1914",
-     "text": "They play football in no man's land.",
-     "cy": 480
-    },
-    "r": {
-     "img": "vorrat/heute_fussball_streit_tisch.jpg",
-     "fx": 0.15,
-     "label": "2026",
-     "text": "We fight about football at the dinner table.",
-     "cy": 480
-    }
-   }
-  },
-  {
-   "split": {
-    "l": {
-     "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
-     "fx": 0.5,
-     "label": "1914",
-     "text": "They shake hands with the enemy.",
-     "cy": 1000
-    },
-    "r": {
-     "img": "vorrat/heute_mann_handy_zoegert.jpg",
-     "fx": 0.6,
-     "label": "2026",
-     "text": "We haven't called our brother in three years.",
-     "cy": 490
-    }
-   }
-  },
-  {
-   "img": "vorrat/1914_handschlag_franzose_deutscher.jpg",
+   "img": "vorrat/alltag_frau_vor_tuer.jpg",
    "fx": 0.5,
-   "text": "They did it in 1914. Who stands up first in your family?",
-   "cta": "Tell us in the comments",
-   "w": 1000,
-   "cy": 1165
+   "text": "Apologizing first feels weak. Others see courage.",
+   "hook": true,
+   "cy": 520
   },
   {
-   "book": "en"
+   "img": "vorrat/alltag_frau_vor_tuer.jpg",
+   "fx": 0.62,
+   "fy": 0.62,
+   "zoom": 1.5,
+   "text": "In your head, you see everything that could go wrong.",
+   "cy": 480
+  },
+  {
+   "img": "vorrat/alltag_geschwister_bank_abstand.jpg",
+   "fx": 0.5,
+   "text": "Mannheim researchers studied it: confessing love, apologizing first after a big fight.",
+   "cy": 560
+  },
+  {
+   "img": "vorrat/alltag_geschwister_bank_abstand.jpg",
+   "fx": 0.3,
+   "fy": 0.78,
+   "zoom": 1.6,
+   "text": "People saw more weakness in their own step than in someone else's.",
+   "cy": 500
+  },
+  {
+   "img": "vorrat/alltag_geschwister_bank_hand.jpg",
+   "fx": 0.5,
+   "text": "We see our own step in every detail. Others see the whole.",
+   "cy": 560
+  },
+  {
+   "img": "vorrat/alltag_geschwister_umarmung.jpg",
+   "fx": 0.5,
+   "text": "Going first isn't admitting you were wrong. It says: you matter more.",
+   "cy": 540
+  },
+  {
+   "img": "vorrat/alltag_geschwister_bank_hand.jpg",
+   "fx": 0.5,
+   "fy": 0.7,
+   "zoom": 1.3,
+   "text": "Who's waiting for you to go first?",
+   "cta": "Tell us in the comments",
+   "cy": 520
+  },
+  {
+   "book": "en",
+   "kicker": "From the book",
+   "bg": "vorrat/alltag_geschwister_umarmung.jpg"
   }
- ],
- "firstComment": "Be honest: who's the one arguing about the tree in your family? 😅",
- "titleScore": "vidIQ 94 (14.11.2026)"
+ ]
 }

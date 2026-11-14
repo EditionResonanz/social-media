@@ -1,57 +1,71 @@
 {
  "date": "2026-11-15",
  "time": "18:10",
- "format": "F2",
+ "format": "S1 Studie",
  "lang": "en",
  "version": "V1",
- "title": "The part of the Christmas truce nobody talks about… enemies buried their dead together 🕯️",
- "titleScore": "vidIQ 97 (14.11.2026)",
- "caption": "The part of the Christmas truce nobody talks about… enemies buried their dead together 🕯️ Christmas Day 1914, a true story.\n\nCan shared loss end even the oldest feud? Tell us in the comments 👇\n\nThere are no front lines at a graveside. There are only people who have lost someone.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #ww1 #truestory #history #booktok #buchtok",
- "sound": "O Holy Night",
+ "title": "You think they won't care if you text… they'd be happier than you think 💬",
+ "titleScore": "ohne vidIQ (nur YouTube)",
+ "sound": "Count on Me – Bruno Mars",
+ "caption": "You think they won't care if you text… they'd be happier than you think 💬 A study from the University of Pittsburgh: people who reached out to someone they had lost touch with underestimated how pleased the other person would be.\n\nWho will you text tonight? Tell us in the comments 👇\n\nYour first sentence doesn't have to fix anything. \"I've been thinking about you\" is enough.\n\nFollow for more true stories about the courage to take the first step.\n\n📖 \"The First to Stand Up\" by Bernd Blasius – a true story about being the first.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#psychology #friendship #reachout #booktok #selfgrowth #buchtok\n\nStudy: Liu et al., University of Pittsburgh",
+ "firstComment": "Be honest: who popped into your head just now? 👀",
  "slides": [
   {
-   "img": "vorrat/1914_kreuze_baum.jpg",
-   "fx": 0.5,
-   "text": "First, they buried their dead. Together.",
+   "img": "vorrat/alltag_mann_handy_abend.jpg",
+   "fx": 0.6,
+   "fy": 0.9,
+   "zoom": 1.2,
+   "text": "You think they won't care. Science disagrees.",
    "hook": true,
-   "cy": 470
+   "cy": 560
   },
   {
-   "img": "vorrat/1914_offiziere_handschlag.jpg",
+   "img": "vorrat/alltag_haende_tippen.jpg",
    "fx": 0.5,
-   "text": "Christmas Day 1914. Both sides agreed to bring in the dead.",
-   "w": 1000,
-   "cy": 415
+   "text": "Researchers in Pittsburgh had people message someone they'd lost touch with.",
+   "cy": 560
   },
   {
-   "img": "vorrat/1914_soldaten_graeber.jpg",
-   "fx": 0.5,
-   "text": "Germans and Scots carried each other's dead to the same place.",
-   "w": 1000,
-   "cy": 450
+   "img": "vorrat/alltag_mann_handy_abend.jpg",
+   "fx": 0.62,
+   "fy": 0.92,
+   "zoom": 1.7,
+   "text": "First, the senders guessed: how happy will the other person be?",
+   "cy": 520
   },
   {
-   "img": "vorrat/1914_feldgeistliche_gebet.jpg",
+   "img": "vorrat/alltag_frau_freut_sich_handy.jpg",
    "fx": 0.5,
-   "text": "Psalm 23 was read. Once in English, once in German.",
+   "text": "Then the recipients were asked. They were happier than the senders guessed.",
    "cy": 500
   },
   {
-   "img": "vorrat/1914_niemandsland_lichter.jpg",
-   "fx": 0.5,
-   "text": "There are no front lines at a graveside. Only people who have lost someone.",
+   "img": "vorrat/alltag_frau_freut_sich_handy.jpg",
+   "fx": 0.55,
+   "fy": 0.62,
+   "zoom": 1.45,
+   "text": "Experiment after experiment. The biggest surprise: messages out of the blue.",
    "cy": 470
   },
   {
-   "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
+   "img": "vorrat/alltag_freunde_bahnsteig.jpg",
    "fx": 0.5,
-   "text": "Can shared loss end even the oldest feud?",
-   "cta": "Tell us in the comments",
-   "cy": 1040
+   "text": "Your first sentence doesn't have to fix anything. “I've been thinking about you.”",
+   "cy": 560
   },
   {
-   "book": "en"
+   "img": "vorrat/alltag_haende_tippen.jpg",
+   "fx": 0.5,
+   "fy": 0.7,
+   "zoom": 1.25,
+   "text": "Who will you text tonight?",
+   "cta": "Tell us in the comments",
+   "cy": 520
+  },
+  {
+   "book": "en",
+   "kicker": "From the book",
+   "bg": "vorrat/alltag_frau_freut_sich_handy.jpg"
   }
- ],
- "firstComment": "Did you know this part of the story? 👀"
+ ]
 }
