@@ -11,39 +11,48 @@
    "img": "vorrat/heute_opa_liest_buch.jpg",
    "fx": 0.5,
    "text": "5 people who need this book for Christmas",
-   "hook": true
+   "hook": true,
+   "cy": 510
   },
   {
    "img": "vorrat/heute_familie_tisch_streit.jpg",
    "fx": 0.45,
-   "text": "1/5 The one who always makes peace at the Christmas table."
+   "text": "1/5 The one who always makes peace at the Christmas table.",
+   "cy": 455
   },
   {
-   "img": "vorrat/1914_fussball_farbig.jpg",
-   "fx": 0.72,
-   "text": "2/5 History lovers. This really happened in 1914."
+   "img": "vorrat/1914_fussball_spiel_b.jpg",
+   "fx": 0.5,
+   "text": "2/5 History lovers. This really happened in 1914.",
+   "cy": 450
   },
   {
    "img": "vorrat/heute_mann_handy_zoegert.jpg",
    "fx": 0.6,
-   "text": "3/5 The brother you haven't called in years."
+   "text": "3/5 The brother you haven't called in years.",
+   "cy": 450
   },
   {
    "img": "vorrat/1914_tausch_franzose_deutscher.jpg",
    "fx": 0.5,
-   "text": "4/5 Anyone who thinks peace is impossible."
+   "text": "4/5 Anyone who thinks peace is impossible.",
+   "cy": 410
   },
   {
    "img": "vorrat/1914_steigt_aus_graben.jpg",
    "fx": 0.5,
-   "text": "5/5 You. Because someone has to stand up first."
+   "text": "5/5 You. Because someone has to stand up first.",
+   "x": 275,
+   "w": 510,
+   "cy": 490
   },
   {
    "img": "vorrat/heute_opa_liest_buch.jpg",
    "fx": 0.55,
    "zoom": 1.3,
    "text": "Who would you give it to?",
-   "cta": "Tell us in the comments"
+   "cta": "Tell us in the comments",
+   "cy": 500
   },
   {
    "book": "en"

@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-15",
+ "time": "18:10",
+ "format": "F2",
+ "lang": "en",
+ "version": "V1",
+ "title": "The part of the Christmas truce nobody talks about… enemies buried their dead together 🕯️",
+ "titleScore": "vidIQ 97 (14.11.2026)",
+ "caption": "The part of the Christmas truce nobody talks about… enemies buried their dead together 🕯️ Christmas Day 1914, a true story.\n\nCan shared loss end even the oldest feud? Tell us in the comments 👇\n\nThere are no front lines at a graveside. There are only people who have lost someone.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #ww1 #truestory #history #booktok #buchtok",
+ "sound": "O Holy Night",
+ "slides": [
+  {
+   "img": "vorrat/1914_kreuze_baum.jpg",
+   "fx": 0.5,
+   "text": "First, they buried their dead. Together.",
+   "hook": true,
+   "cy": 470
+  },
+  {
+   "img": "vorrat/1914_offiziere_handschlag.jpg",
+   "fx": 0.5,
+   "text": "Christmas Day 1914. Both sides agreed to bring in the dead.",
+   "w": 1000,
+   "cy": 415
+  },
+  {
+   "img": "vorrat/1914_soldaten_graeber.jpg",
+   "fx": 0.5,
+   "text": "Germans and Scots carried each other's dead to the same place.",
+   "w": 1000,
+   "cy": 450
+  },
+  {
+   "img": "vorrat/1914_feldgeistliche_gebet.jpg",
+   "fx": 0.5,
+   "text": "Psalm 23 was read. Once in English, once in German.",
+   "cy": 500
+  },
+  {
+   "img": "vorrat/1914_niemandsland_lichter.jpg",
+   "fx": 0.5,
+   "text": "There are no front lines at a graveside. Only people who have lost someone.",
+   "cy": 470
+  },
+  {
+   "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
+   "fx": 0.5,
+   "text": "Can shared loss end even the oldest feud?",
+   "cta": "Tell us in the comments",
+   "cy": 1040
+  },
+  {
+   "book": "en"
+  }
+ ],
+ "firstComment": "Did you know this part of the story? 👀"
+}

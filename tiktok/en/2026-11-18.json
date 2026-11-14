@@ -11,7 +11,8 @@
    "img": "vorrat/heute_mann_handy_zoegert.jpg",
    "fx": 0.55,
    "text": "You haven't texted your brother in three years.",
-   "hook": true
+   "hook": true,
+   "cy": 485
   },
   {
    "img": "vorrat/heute_mann_handy_zoegert.jpg",
@@ -22,40 +23,46 @@
    "bubbles": [
     {
      "text": "Hey… Merry Christmas?",
-     "x": 330,
-     "y": 1060,
-     "w": 440,
-     "tail": "down-right"
+     "x": 720,
+     "y": 960,
+     "w": 420,
+     "tail": "down"
     }
-   ]
+   ],
+   "cy": 470
   },
   {
    "img": "vorrat/1914_franz_graben_nacht.jpg",
    "fx": 0.5,
-   "text": "Christmas 1914. Enemies lay in trenches, sometimes only 30 yards apart."
+   "text": "Christmas 1914. Enemies lay in trenches, sometimes only 30 yards apart.",
+   "cy": 480
   },
   {
    "img": "vorrat/1914_geht_ins_niemandsland.jpg",
    "fx": 0.5,
-   "text": "Then someone stood up. Unarmed. Not knowing if he'd be shot."
+   "text": "Then someone stood up. Unarmed. Not knowing if he'd be shot.",
+   "cy": 1270
   },
   {
    "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
    "fx": 0.5,
-   "text": "Within minutes, no man's land was full of men shaking hands."
+   "text": "Within minutes, no man's land was full of men shaking hands.",
+   "cy": 1040
   },
   {
    "img": "vorrat/heute_mann_handy_zoegert.jpg",
    "fx": 0.72,
    "zoom": 1.35,
    "text": "They crossed no man's land. You only have to press send.",
-   "fy": 0.5
+   "fy": 0.5,
+   "cy": 600
   },
   {
    "img": "vorrat/heute_familie_tisch_streit.jpg",
    "fx": 0.5,
    "text": "Who should stand up first in your family?",
-   "cta": "Tell us in the comments"
+   "cta": "Tell us in the comments",
+   "cy": 500
   },
   {
    "book": "en"

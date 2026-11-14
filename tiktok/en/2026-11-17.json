@@ -11,40 +11,49 @@
    "img": "vorrat/1914_brit_graben_lichter.jpg",
    "fx": 0.5,
    "text": "They expected an attack. Then the enemy sang.",
-   "hook": true
+   "hook": true,
+   "cy": 640
   },
   {
    "img": "vorrat/1914_brit_graben_lichter.jpg",
    "fx": 0.15,
-   "fy": 0.75,
+   "fy": 0.55,
    "zoom": 1.45,
-   "text": "Christmas Eve 1914. Headquarters warned: the Germans might attack tonight."
+   "text": "Christmas Eve 1914. Headquarters warned: the Germans might attack tonight.",
+   "cy": 480
   },
   {
    "img": "vorrat/1914_lichterkette_front.jpg",
    "fx": 0.5,
-   "text": "Then lights appeared along the German trenches. Candles on little Christmas trees."
+   "text": "Then lights appeared along the German trenches. Candles on little Christmas trees.",
+   "cy": 455
   },
   {
    "img": "vorrat/1914_saenger_baum_nacht.jpg",
    "fx": 0.45,
-   "text": "And over there, they began to sing: \"Silent Night\"."
+   "text": "And over there, they began to sing: \"Silent Night\".",
+   "cy": 405
   },
   {
    "img": "vorrat/1914_niemandsland_lichter.jpg",
    "fx": 0.5,
-   "text": "The British listened. Then they sang back. Song after song."
+   "text": "The British listened. Then they sang back. Song after song.",
+   "cy": 460
   },
   {
    "img": "vorrat/1914_steigt_aus_graben.jpg",
    "fx": 0.5,
-   "text": "Next morning, someone had to be the first to stand up."
+   "text": "Next morning, someone had to be the first to stand up.",
+   "x": 275,
+   "w": 510,
+   "cy": 490
   },
   {
    "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
    "fx": 0.5,
    "text": "Would you have stood up first?",
-   "cta": "Tell us in the comments"
+   "cta": "Tell us in the comments",
+   "cy": 1040
   },
   {
    "book": "en"

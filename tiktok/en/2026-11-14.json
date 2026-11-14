@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-14",
+ "time": "19:55",
+ "format": "F2",
+ "lang": "en",
+ "version": "V1",
+ "title": "They were told to kill each other… so they played football instead ⚽",
+ "titleScore": "vidIQ 97 (14.11.2026)",
+ "caption": "They were told to kill each other… so they played football instead ⚽ Christmas Day 1914, the Christmas truce football. A true story.\n\nWho would you pass the ball to this Christmas? Tell us in the comments 👇\n\nA ball that goes across and comes back is a question and its answer.\n\n\"The First to Stand Up\" – the whole true story as a book.\n🇩🇪 Auch auf Deutsch: „Wer zuerst aufsteht“\n🇫🇷 Aussi en français : « Le Premier à se lever »\n\n#christmastruce #ww1 #truestory #football #booktok #buchtok",
+ "sound": "Jingle Bell Rock – Bobby Helms",
+ "slides": [
+  {
+   "img": "vorrat/1914_fussball_spiel_a.jpg",
+   "fx": 0.5,
+   "text": "They were enemies. Then someone kicked a ball.",
+   "hook": true,
+   "cy": 520
+  },
+  {
+   "img": "vorrat/1914_steigt_aus_graben.jpg",
+   "fx": 0.5,
+   "text": "Christmas 1914. They climbed out, unarmed.",
+   "x": 275,
+   "w": 510,
+   "cy": 470
+  },
+  {
+   "img": "vorrat/1914_ball_baum_schnee.jpg",
+   "fx": 0.5,
+   "text": "A British soldier kicked a football over to the German wire.",
+   "cy": 480
+  },
+  {
+   "img": "vorrat/1914_fussball_ballannahme.jpg",
+   "fx": 0.5,
+   "text": "Someone over there trapped it… and kicked it back.",
+   "cy": 450
+  },
+  {
+   "img": "vorrat/1914_fussball_spiel_b.jpg",
+   "fx": 0.5,
+   "text": "Soon: heavy boots, greatcoats, one ball. \"No referee and no score.\"",
+   "cy": 480
+  },
+  {
+   "img": "vorrat/1914_ball_baum_schnee.jpg",
+   "fx": 0.42,
+   "fy": 0.62,
+   "zoom": 1.7,
+   "text": "A ball that goes across and comes back is a question and its answer.",
+   "x": 290,
+   "w": 540,
+   "cy": 740
+  },
+  {
+   "img": "vorrat/1914_handschlag_franzose_deutscher.jpg",
+   "fx": 0.5,
+   "text": "Who would you pass the ball to this Christmas?",
+   "cta": "Tell us in the comments",
+   "cy": 1145
+  },
+  {
+   "book": "en"
+  }
+ ],
+ "firstComment": "Be honest: would you have kicked it back? 👀"
+}

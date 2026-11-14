@@ -20,7 +20,8 @@
      "label": "CHRISTMAS 2026"
     }
    },
-   "hook": true
+   "hook": true,
+   "cy": 410
   },
   {
    "split": {
@@ -28,13 +29,15 @@
      "img": "vorrat/1914_brit_graben_lichter.jpg",
      "fx": 0.55,
      "label": "1914",
-     "text": "Enemies sing carols to each other across no man's land."
+     "text": "Enemies sing carols to each other across no man's land.",
+     "cy": 560
     },
     "r": {
      "img": "vorrat/heute_streit_schiefer_baum.jpg",
      "fx": 0.6,
      "label": "2026",
-     "text": "We argue about whether the tree is crooked."
+     "text": "We argue about whether the tree is crooked.",
+     "cy": 560
     }
    }
   },
@@ -44,29 +47,33 @@
      "img": "vorrat/1914_tausch_brite_deutscher.jpg",
      "fx": 0.5,
      "label": "1914",
-     "text": "They swap cigars, chocolate and plum pudding."
+     "text": "They swap cigars, chocolate and plum pudding.",
+     "cy": 800
     },
     "r": {
      "img": "vorrat/heute_umtausch_27.jpg",
      "fx": 0.35,
      "label": "2026",
-     "text": "We return our presents on the 27th."
+     "text": "We return our presents on the 27th.",
+     "cy": 490
     }
    }
   },
   {
    "split": {
     "l": {
-     "img": "vorrat/1914_fussball_farbig.jpg",
-     "fx": 0.72,
+     "img": "vorrat/1914_fussball_spiel_b.jpg",
+     "fx": 0.5,
      "label": "1914",
-     "text": "They play football in no man's land."
+     "text": "They play football in no man's land.",
+     "cy": 480
     },
     "r": {
      "img": "vorrat/heute_fussball_streit_tisch.jpg",
      "fx": 0.15,
      "label": "2026",
-     "text": "We fight about football at the dinner table."
+     "text": "We fight about football at the dinner table.",
+     "cy": 480
     }
    }
   },
@@ -76,13 +83,15 @@
      "img": "vorrat/1914_handschlag_brite_deutscher.jpg",
      "fx": 0.5,
      "label": "1914",
-     "text": "They shake hands with the enemy."
+     "text": "They shake hands with the enemy.",
+     "cy": 1000
     },
     "r": {
      "img": "vorrat/heute_mann_handy_zoegert.jpg",
      "fx": 0.6,
      "label": "2026",
-     "text": "We haven't called our brother in three years."
+     "text": "We haven't called our brother in three years.",
+     "cy": 490
     }
    }
   },
@@ -90,7 +99,9 @@
    "img": "vorrat/1914_handschlag_franzose_deutscher.jpg",
    "fx": 0.5,
    "text": "They did it in 1914. Who stands up first in your family?",
-   "cta": "Tell us in the comments"
+   "cta": "Tell us in the comments",
+   "w": 1000,
+   "cy": 1165
   },
   {
    "book": "en"

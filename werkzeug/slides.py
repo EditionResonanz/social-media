@@ -33,7 +33,8 @@ W, H = 1080, 1920
 HERE = pathlib.Path(__file__).resolve().parent
 FONTS = HERE / "fonts"
 ROOT = HERE.parent
-SAFE_TOP, SAFE_BOTTOM = int(H * .08), int(H * .82)
+SAFE_TOP, SAFE_BOTTOM = 330, 1400   # echte Handy-Ansicht 14.11.2026: oben Suchleiste, unten Beschreibung
+CENTER_Y = 865                        # alle Texte mittig (Bernd, 14.11.2026)
 RSTRIP = (int(W * .86), int(H * .45), W, int(H * .85))
 NAVY, GOLD, GOLD_HI, CREAM = "#0b1f3a", "#e7c376", "#f5d791", "#f3eedf"
 
@@ -125,24 +126,26 @@ def slide_html(s, bg):
         for side, x0 in (("l", 0), ("r", W // 2)):
             p = s["split"][side]
             big = ' style="font-size:50px;padding:20px 30px"' if s.get("hook") else ""
-            body += (f'<div class="box half" style="left:{x0 + 26}px;width:{W // 2 - 52}px;top:{SAFE_TOP + 30}px">'
+            body += (f'<div class="box half" style="left:{x0 + 26}px;width:{W // 2 - 52}px;top:{p.get("cy", s.get("cy", CENTER_Y))}px;transform:translateY(-50%)">'
                      f'<div class="chip"{big}>{p["label"]}</div><br>'
                      + (f'<span class="t">{p["text"]}</span>' if p.get("text") else "") + "</div>")
     elif "book" in s:
         c = BOOK[s["book"]]
         cover = (ROOT / c["cover"]).as_uri()
-        body += (f'<div class="box" style="left:0;right:0;top:{SAFE_TOP + 40}px"><div class="book-k">{c["kicker"]}</div></div>'
-                 f'<img src="{cover}" style="position:absolute;left:{(W - 580) // 2}px;top:{SAFE_TOP + 150}px;width:580px;'
+        body += (f'<div class="box" style="left:110px;width:860px;top:{CENTER_Y}px;transform:translateY(-50%)">'
+                 f'<div class="book-k">{c["kicker"]}</div>'
+                 f'<img src="{cover}" style="display:block;margin:26px auto 34px;width:440px;'
                  f'border-radius:6px;box-shadow:0 30px 80px rgba(0,0,0,.65)">'
-                 f'<div class="box" style="left:150px;width:760px;top:1268px"><div class="book-t">{c["title"]}</div>'
+                 f'<div class="book-t">{c["title"]}</div>'
                  f'<div class="book-a">{c["author"]}</div>'
-                 f'<div class="book-l" style="margin-top:30px">{"<br>".join(c["lines"])}</div></div>')
+                 f'<div class="book-l" style="margin-top:24px">{"<br>".join(c["lines"])}</div></div>')
     else:
         cls = "hook" if s.get("hook") else "norm"
         if s.get("text"):
-            top = s.get("top", SAFE_TOP + 40)
+            cy = s.get("cy", CENTER_Y)
             cta = f'<br><div class="cta">{s["cta"]}</div>' if s.get("cta") else ""
-            body += (f'<div class="box {cls}" style="left:80px;width:{W - 160}px;top:{top}px">'
+            bw = s.get("w", W - 160); bx = s.get("x", W // 2) - bw // 2
+            body += (f'<div class="box {cls}" style="left:{bx}px;width:{bw}px;top:{cy}px;transform:translateY(-50%)">'
                      f'<span class="t">{s["text"]}</span>{cta}</div>')
     for b in s.get("bubbles", []):
         w = b.get("w", 440)
