@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14",
+ "stand": "14.11.2026, 21:30",
  "hinweis": "Gesperrt: Berthier-Farbbild (Pickelhaube). Nie Bilder mit Signatur.",
  "bilder": [
   {
@@ -431,6 +431,267 @@
    "groesse": [
     1072,
     1920
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v027",
+   "datei": "vorrat/1914_fussball_spiel_a.jpg",
+   "zeit": "1914",
+   "motiv": "Briten und Deutsche (Feldmütze) spielen Fußball im Schnee, Himmel oben frei",
+   "schlagworte": [
+    "Fußball",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v028",
+   "datei": "vorrat/1914_fussball_ballannahme.jpg",
+   "zeit": "1914",
+   "motiv": "Deutscher stoppt Lederball, Briten im Hintergrund",
+   "schlagworte": [
+    "Fußball",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v029",
+   "datei": "vorrat/1914_fussball_spiel_b.jpg",
+   "zeit": "1914",
+   "motiv": "Fußball im Schnee, Ball fliegt über Stacheldraht, Himmel frei",
+   "schlagworte": [
+    "Fußball",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v030",
+   "datei": "vorrat/1914_ball_baum_schnee.jpg",
+   "zeit": "1914",
+   "motiv": "Lederball und kleiner Kerzenbaum im Schnee",
+   "schlagworte": [
+    "Fußball",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v031",
+   "datei": "vorrat/1914_feldgeistliche_gebet.jpg",
+   "zeit": "1914",
+   "motiv": "Britischer und deutscher Feldgeistlicher lesen aus Gebetbüchern",
+   "schlagworte": [
+    "Begräbnis",
+    "Psalm 23"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v032",
+   "datei": "vorrat/1914_kreuze_baum.jpg",
+   "zeit": "1914",
+   "motiv": "Zwei Holzkreuze und Kerzenbaum im Schnee, Abendhimmel",
+   "schlagworte": [
+    "Begräbnis",
+    "Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v033",
+   "datei": "vorrat/1914_offiziere_handschlag.jpg",
+   "zeit": "1914",
+   "motiv": "Deutscher und britischer Offizier Handschlag über dem Graben",
+   "schlagworte": [
+    "Begräbnis",
+    "Absprache"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v034",
+   "datei": "vorrat/1914_soldaten_graeber.jpg",
+   "zeit": "1914",
+   "motiv": "Briten/Schotten und Deutsche mit Mützen in der Hand an Gräbern",
+   "schlagworte": [
+    "Begräbnis"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v035",
+   "datei": "vorrat/alltag_mann_handy_abend.jpg",
+   "zeit": "heute",
+   "motiv": "Mann (30er) auf Sofa am Abend mit Handy, zögert; Wand oben frei",
+   "schlagworte": [
+    "Nachricht",
+    "Zögern",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v036",
+   "datei": "vorrat/alltag_frau_freut_sich_handy.jpg",
+   "zeit": "heute",
+   "motiv": "Frau (50er) am Küchentisch, freut sich über Nachricht",
+   "schlagworte": [
+    "Nachricht",
+    "Freude",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v037",
+   "datei": "vorrat/alltag_freunde_bahnsteig.jpg",
+   "zeit": "heute",
+   "motiv": "Zwei alte Freunde umarmen sich am Bahnsteig, Himmel oben frei",
+   "schlagworte": [
+    "Wiedersehen",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v038",
+   "datei": "vorrat/alltag_haende_tippen.jpg",
+   "zeit": "heute",
+   "motiv": "Hände tippen Nachricht, Teetasse, Fenster oben",
+   "schlagworte": [
+    "Nachricht",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v039",
+   "datei": "vorrat/alltag_frau_vor_tuer.jpg",
+   "zeit": "heute",
+   "motiv": "Junge Frau vor Wohnungstür, will klopfen, zögert; Herbstkranz",
+   "schlagworte": [
+    "erster Schritt",
+    "Entschuldigung",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v040",
+   "datei": "vorrat/alltag_geschwister_bank_abstand.jpg",
+   "zeit": "heute",
+   "motiv": "Geschwister an beiden Enden einer Parkbank nach Streit, Herbst",
+   "schlagworte": [
+    "Streit",
+    "Familie",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v041",
+   "datei": "vorrat/alltag_geschwister_bank_hand.jpg",
+   "zeit": "heute",
+   "motiv": "Geschwister auf Bank, sie streckt die Hand aus, Herbst",
+   "schlagworte": [
+    "Versöhnung",
+    "Familie",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
+   ],
+   "einsaetze": []
+  },
+  {
+   "id": "v042",
+   "datei": "vorrat/alltag_geschwister_umarmung.jpg",
+   "zeit": "heute",
+   "motiv": "Geschwister umarmen sich im Herbstpark",
+   "schlagworte": [
+    "Versöhnung",
+    "Familie",
+    "kein Weihnachten"
+   ],
+   "quelle": "Flow 14.11.2026",
+   "groesse": [
+    1536,
+    2752
    ],
    "einsaetze": []
   }
